@@ -22,5 +22,5 @@ t = t - pw/2;
 
 slope = bw/pw;
 
-lfm = exp(1i*pi*slope*t.^2);
+lfm = exp( 1i *pi* slope *t.^2 );
 
