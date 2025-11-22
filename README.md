@@ -1,3 +1,5 @@
+signal starts with a chirp: 
+
 
 
 
@@ -23,4 +25,17 @@ t = t - pw/2;
 slope = bw/pw;
 
 lfm = exp( 1i *pi* slope *t.^2 );
+
+
+after the chirp:
+
+hints:
+
+1024 x 1024 matrix is cool
+
+2D FFT are cool
+
+image contains an amazon gift card code
+
+
 
